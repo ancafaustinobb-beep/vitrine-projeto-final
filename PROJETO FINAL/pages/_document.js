@@ -1,0 +1,1 @@
+// HTML base do Next.js
